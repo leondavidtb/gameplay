@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  Agende partidas e duelos com seus amigos. 
+  Organize partidas e duelos com seus amigos. 
 </p>
 
-<h2> Tecnologias utilizadas: </h2>
+<h2> Tecnologias e ferramentas utilizadas: </h2>
 
 - <a href="https://reactnative.dev" > React Native </a>
 - <a href="https://www.typescriptlang.org/"> TypeScript </a>
