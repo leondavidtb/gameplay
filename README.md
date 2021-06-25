@@ -12,7 +12,7 @@
 
 - <a href="https://reactnative.dev" > React Native </a>
 - <a href="https://www.typescriptlang.org/"> TypeScript </a>
-- <a href=""> Autenticação com OAuth2 </a>
+-  Autenticação com OAuth2 
 <!-- - <a href="https://callstack.github.io/react-native-testing-library/"> React-Native-Testing-Library </a>  -->
 
 ## Pré-requisitos:
