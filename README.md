@@ -1,4 +1,3 @@
-
 <h1 align="center">GamePlay 🎮</h1>
 
 <p align="center"  >
@@ -13,9 +12,7 @@
 
 - <a href="https://reactnative.dev" > React Native </a>
 - <a href="https://www.typescriptlang.org/"> TypeScript </a>
-<!-- - <a href="https://github.com/wix/Detox"> Detox para testes E2E </a> -->
-<!-- - <a href="https://redux.js.org/"> Redux </a> -->
-<!-- - <a href="https://redux-saga.js.org/"> Redux-Saga </a> -->
+- <a href=""> Autenticação com OAuth2 </a>
 <!-- - <a href="https://callstack.github.io/react-native-testing-library/"> React-Native-Testing-Library </a>  -->
 
 ## Pré-requisitos:
@@ -64,6 +61,7 @@ $ json-server ./src/services/server.json --host 192.168.2.12 --port 3333
 ```
 **⚠️ Lembre-se de utilizar o endereço de IP da sua máquina**
  -->
+
 ## Licença:
 
 <p>Este projeto está licenciado sob a licença MIT - consulte a página <a href="https://opensource.org/licenses/MIT" style=" font-size: 16px; " >LICENSE</a> para obter detalhes.</p>
