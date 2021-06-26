@@ -8,6 +8,7 @@
   Agende partidas e duelos com seus amigos. 
 </p>
 
+<<<<<<< HEAD
 <h2> Tecnologias e bibliotecas utilizadas: </h2>
 
 - React Native
@@ -22,6 +23,14 @@
 - React Navigation
 - Expo Authentication
 - React Native Share
+=======
+<h2> Tecnologias utilizadas: </h2>
+
+- <a href="https://reactnative.dev" > React Native </a>
+- <a href="https://www.typescriptlang.org/"> TypeScript </a>
+-  Autenticação com OAuth2 
+<!-- - <a href="https://callstack.github.io/react-native-testing-library/"> React-Native-Testing-Library </a>  -->
+>>>>>>> d7f37204716e3a9b43b1cf03f200f26a8c6cafdf
 
 ## Pré-requisitos:
 
