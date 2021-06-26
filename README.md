@@ -8,12 +8,20 @@
   Agende partidas e duelos com seus amigos. 
 </p>
 
-<h2> Tecnologias utilizadas: </h2>
+<h2> Tecnologias e bibliotecas utilizadas: </h2>
 
-- <a href="https://reactnative.dev" > React Native </a>
-- <a href="https://www.typescriptlang.org/"> TypeScript </a>
-- <a href=""> Autenticação com OAuth2 </a>
-<!-- - <a href="https://callstack.github.io/react-native-testing-library/"> React-Native-Testing-Library </a>  -->
+- React Native
+- TypeScript
+- Autenticação com OAuth2
+- Expo
+- Async Storage
+- Context API
+- Vector Icons
+- Axios
+- Gradient Colors
+- React Navigation
+- Expo Authentication
+- React Native Share
 
 ## Pré-requisitos:
 
@@ -22,8 +30,6 @@
 - Expo CLI
 
 ## Como utilizar:
-
-### App
 
 Clone o repositório
 
@@ -50,17 +56,15 @@ Inicie a aplicação
 $ expo start
 ```
 
-<!-- ### Server
-Instale o JSON Server globalmente na sua máquina
+Defina as credenciais da sua aplicação no servidor do Discord no arquivo .env e remova o .env.example
+
 ```bash
-$ npm install -g json-server
+REDIRECT_URI=
+SCOPE=
+RESPONSE_TYPE=
+CLIENT_ID=
+CDN_IMAGE=
 ```
-Inicie o servidor
-```bash
-$ json-server ./src/services/server.json --host 192.168.2.12 --port 3333
-```
-**⚠️ Lembre-se de utilizar o endereço de IP da sua máquina**
- -->
 
 ## Licença:
 
