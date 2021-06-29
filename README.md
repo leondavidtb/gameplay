@@ -38,7 +38,7 @@ Clone o repositório
 $ git clone https://github.com/leondavidtb/gameplay.git
 ```
 
-Entre na pasta
+Entre na pasta do projeto
 
 ```bash
 $ cd gameplay
